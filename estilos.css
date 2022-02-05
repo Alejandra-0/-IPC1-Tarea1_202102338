@@ -1,0 +1,29 @@
+*
+body{
+	font-family: bahnschrift;
+	color: white;
+	margin: 30px;
+	background-color: #58508d;
+}
+
+h1 {
+	font-size: 25px;
+	padding: 10px;
+	text-align: center;
+}
+
+th {
+	font-size: 20px;
+	padding: 10px;
+	text-align: center;
+	border: hidden;
+	background-color: #0f1026;
+}
+
+td {
+	font-size: 15px;
+	padding: 10px;
+	text-align: center;
+	border: hidden;
+	background-color: #2b2a5c;
+}
